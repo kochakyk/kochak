@@ -1,0 +1,5 @@
+.ui-popup-open,.ui-popup-open{position:absolute!important}.ui-popup-container{z-index:1100;display:inline-block;position:absolute;padding:0;outline:0}.ui-popup{position:relative}.ui-popup-hidden{left:0;top:0;position:absolute!important;visibility:hidden}.ui-popup-truncate{height:1px;width:1px;margin:-1px;overflow:hidden;clip:rect(1px,1px,1px,1px)}.ui-popup.ui-content,.ui-popup .ui-content{overflow:visible}
+.ui-popup>img {max-width: 100%; box-shadow: 0px 1px 6px 1px rgba(117, 116, 116, 0.71);max-height: 100%;vertical-align: middle; border-radius: 5px;}
+.ui-popup>.ui-btn-left, .ui-popup>.ui-btn-right {position: absolute;top: 0px; margin: 0; z-index: 1101;float:right;}
+div#myPopup-screen { height: auto!important;
+}.ui-loader.ui-corner-all.ui-body-a.ui-loader-default { display: none;}
